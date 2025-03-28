@@ -1,16 +1,20 @@
 ---
-title: General
+title: XXX
 links:
-  - href: https://mail.google.com/
-    title: Gmail
-    src: gmail.svg
-    alt: gmail-icon
-  - href: https://photos.google.com
-    title: Photos
-    src: ./gphotos.svg
-    alt: google-photos-icon
-  - href: https://youtube.com
-    title: YouTube
-    src: youtube.svg
-    alt: youtube-icon
+  - href: https://www.bing.com/videos/search?q=&adlt=off
+    title: Bing Video Search
+    src: bing.svg
+    alt: bing-video-icon
+  - href: https://xhamster.com/gay
+    title: XHamster Gay
+    src: xhamster.svg
+    alt: xhamster-gay-icon
+  - href: https://www.pornhub.com/gay
+    title: Pornhub Gay
+    src: pornhub.svg
+    alt: pornhub-gay-icon
+  - href: https://www.boyfriend.tv
+    title: Boyfriend.tv
+    src: boyfriendtv.svg
+    alt: boyfriend-tv-icon
 ---
