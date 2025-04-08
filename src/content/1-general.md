@@ -1,5 +1,6 @@
 ---
-title: XXX
+title: 3D Printing
+src: bing.svg
 links:
   - href: https://www.bing.com/videos/search?q=&adlt=off
     title: Bing Video Search
